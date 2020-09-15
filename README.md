@@ -6,4 +6,4 @@
 	* Programming in C++
 	* Software Development
 	* Theory of Computation
-* I'm currently working on [Cadence Calculator](https://www.walkercsutton.com/projects/cadence-calculator)
+* 🚲 I'm currently working on [Cadence Calculator](https://www.walkercsutton.com/projects/cadence-calculator)
